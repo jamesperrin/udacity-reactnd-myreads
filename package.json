@@ -1,5 +1,8 @@
 {
     "homepage": "https://jamesperrin.github.io/udacity-reactnd-myreads/",
+    "name": "udacity-reactnd-myreads",
+    "version": "1.0.0",
+    "repo-url": "https://github.com/jamesperrin/udacity-reactnd-myreads",
   "dependencies": {
     "gh-pages": "^2.2.0",
     "prop-types": "^15.7.2",
